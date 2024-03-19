@@ -2,6 +2,9 @@
 STM32K144를 이용한 기초 자동차 제어입니다.
 STM보드와 외부 GPIO 입출력 장치를 이용해 구현했습니다.
 
+[![Video Label](http://img.youtube.com/vi/nyHUil0t6cQ/0.jpg)](https://youtu.be/nyHUil0t6cQ)
+
+
 스위치 1번: 브레이크
 
 스위치 2번: 좌측 방향 지시등
