@@ -4,6 +4,8 @@ STM보드와 외부 GPIO 입출력 장치를 이용해 구현했습니다.
 
 [![Video Label](http://img.youtube.com/vi/nyHUil0t6cQ/0.jpg)](https://youtu.be/nyHUil0t6cQ)
 
+사용한 입출력 장치: 7-segment, LED, DC motor, switch <br>
+사용 기술: 스위치를 이용한 인터럽트
 
 스위치 1번: 브레이크
 
